@@ -4,7 +4,8 @@
 
 * Sınıflandırma algoritmaları, yeni bir öğenin tanımlanan kategorilerden birine girme olasılığını hesaplamak için eğitim verilerinin kategorizasyonunu kullanır.
 
-        -   Sınıflandırma algoritmalarının bilinen bir örneği, gelen e-postaların “spam” veya “spam değil” şeklinde filtrelenmesidir.
+        -   Sınıflandırma algoritmalarının bilinen bir örneği, 
+            gelen e-postaların “spam” veya “spam değil” şeklinde filtrelenmesidir.
 
 ## Farklı sınıflandırma algoritmalarından bazıları şunlardır;
     -   KNN ((K-Nearest Neighbors)
